@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>A-Frame Curve Component - Basic</title>
+    <meta name="description" content="Basic example for Curve component."></meta>
+    <script src="aframe-master.min.js"></script>
+  <script src="components/aframe-curve-component.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-assets></a-assets>
+
+      <a-curve id="track1" type="CatmullRom">
+        <a-curve-point position="-2 1 -3" geometry="primitive:box; height:0.1; width:0.1; depth:0.1" material="color:#000"></a-curve-point>
+        <a-curve-point position="0 0 -3" geometry="primitive:box; height:0.1; width:0.1; depth:0.1" material="color:#000"></a-curve-point>
+        <a-curve-point position="2 1 -5" geometry="primitive:box; height:0.1; width:0.1; depth:0.1" material="color:#000"></a-curve-point>
+      </a-curve>
+
+      <a-draw-curve curveref="#track1" material="shader: line; color: blue;"></a-draw-curve>
+
+     
+      <a-sky color="#FFFF"></a-sky>
+    </a-scene>
+
+
+  </body>
+</html>  
