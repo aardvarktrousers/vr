@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>obj</title>
+    <meta name="description" content="obj test">
+    <script src="aframe-master.min.js"></script>
+  </head>
+  <body>
+   <a-scene>
+  <a-assets>
+    <a-asset-item id="crate-obj" src="scene.obj"></a-asset-item>
+    <a-asset-item id="crate-mtl" src="scene.mtl"></a-asset-item>
+  </a-assets>
+
+  <!-- Using the asset management system. -->
+  <a-obj-model src="#crate-obj" mtl="#crate-mtl"></a-obj-model>
+
+  <!-- Defining the URL inline. Not recommended but may be more comfortable. -->
+  <a-obj-model src="crate.obj" mtl="crate.mtl"></a-obj-model>
+</a-scene>
+  </body>
+</html>
