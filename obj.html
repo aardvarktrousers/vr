@@ -9,14 +9,15 @@
   <body>
    <a-scene>
   <a-assets>
-    <a-asset-item id="crate-obj" src="scene.obj" position="-2 0 0"></a-asset-item>
+    <a-asset-item id="crate-obj" src="scene.obj"></a-asset-item>
     <a-asset-item id="crate-mtl" src="scene.mtl"></a-asset-item>
   </a-assets>
-
+<a-sky color="#FFFFFF"></a-sky>
   <!-- Using the asset management system. -->
-   <a-obj-model src="#crate-obj" mtl="#crate-mtl" position="0 -1 -2"></a-obj-model>
-
-  <!-- Defining the URL inline. Not recommended but may be more comfortable. -->
+  <a-obj-model src="#crate-obj" mtl="#crate-mtl" position="0 -1 -2"></a-obj-model>
+    <a-obj-model src="#crate-obj" mtl="#crate-mtl" position="0 -2 -2"></a-obj-model>
+      <a-obj-model src="#crate-obj" mtl="#crate-mtl" position="0 -1 -5" rotation="45 10 0"></a-obj-model>
+       <a-obj-model src="#crate-obj" mtl="#crate-mtl" position="0 -1 -5" rotation="10 10 45"></a-obj-model>
   <a-obj-model src="#crate-obj" mtl="#crate-mtl"></a-obj-model>
 </a-scene>
   </body>
