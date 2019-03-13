@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>obj</title>
+    <meta name="description" content="obj test">
+    <script src="aframe-master.min.js"></script>
+  </head>
+  <body>
+   <a-scene>
+  <a-assets>
+    <a-asset-item id="crate-obj" src="untitled.obj"></a-asset-item>
+    <a-asset-item id="crate-mtl" src="untitled.mtl"></a-asset-item>
+  </a-assets>
+<a-sky color="#FFFFFF"></a-sky>
+  <!-- Using the asset management system. -->
+  <a-obj-model src="#crate-obj" mtl="#crate-mtl" position="0 -1 -2"></a-obj-model>
+    <a-obj-model src="#crate-obj" mtl="#crate-mtl" position="0 -2 -2"></a-obj-model>
+      <a-obj-model src="#crate-obj" mtl="#crate-mtl" position="0 -1 -5" rotation="45 10 0"></a-obj-model>
+       <a-obj-model src="#crate-obj" mtl="#crate-mtl" position="0 -1 -5" rotation="10 10 45"></a-obj-model>
+  <a-obj-model src="#crate-obj" mtl="#crate-mtl"></a-obj-model>
+</a-scene>
+  </body>
+</html>
