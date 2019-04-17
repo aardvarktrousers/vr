@@ -1,0 +1,758 @@
+# SceneCreator
+
+newmtl tex2.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex2.png
+
+newmtl tex3.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex3.png
+
+newmtl tex4.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex4.png
+
+newmtl tex5.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex5.png
+
+newmtl tex6.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex6.png
+
+newmtl tex8.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex8.png
+
+newmtl tex9.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex9.png
+
+newmtl tex10.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex10.png
+
+newmtl tex11.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex11.png
+
+newmtl tex12.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex12.png
+
+newmtl tex13.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex13.png
+
+newmtl tex14.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex14.png
+
+newmtl tex15.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex15.png
+
+newmtl tex16.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex16.png
+
+newmtl tex17.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex17.png
+
+newmtl tex18.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex18.png
+
+newmtl tex19.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex19.png
+
+newmtl tex20.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex20.png
+
+newmtl tex21.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex21.png
+
+newmtl tex22.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex22.png
+
+newmtl tex23.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex23.png
+
+newmtl tex24.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex24.png
+
+newmtl tex25.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex25.png
+
+newmtl tex26.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex26.png
+
+newmtl tex27.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex27.png
+
+newmtl tex28.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex28.png
+
+newmtl tex29.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex29.png
+
+newmtl tex30.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex30.png
+
+newmtl tex31.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex31.png
+
+newmtl tex32.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex32.png
+
+newmtl tex33.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex33.png
+
+newmtl tex34.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex34.png
+
+newmtl tex35.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex35.png
+
+newmtl tex36.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex36.png
+
+newmtl tex37.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex37.png
+
+newmtl tex38.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex38.png
+
+newmtl tex39.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex39.png
+
+newmtl tex40.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex40.png
+
+newmtl tex41.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex41.png
+
+newmtl tex42.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex42.png
+
+newmtl tex43.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex43.png
+
+newmtl tex44.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex44.png
+
+newmtl tex45.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex45.png
+
+newmtl tex46.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex46.png
+
+newmtl tex47.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex47.png
+
+newmtl tex49.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex49.png
+
+newmtl tex50.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex50.png
+
+newmtl tex51.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex51.png
+
+newmtl tex52.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex52.png
+
+newmtl tex53.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex53.png
+
+newmtl tex54.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex54.png
+
+newmtl tex56.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex56.png
+
+newmtl tex57.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex57.png
+
+newmtl tex58.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex58.png
+
+newmtl tex59.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex59.png
+
+newmtl tex60.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex60.png
+
+newmtl tex61.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex61.png
+
+newmtl tex62.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex62.png
+
+newmtl tex63.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex63.png
+
+newmtl tex64.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex64.png
+
+newmtl tex65.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex65.png
+
+newmtl tex66.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex66.png
+
+newmtl tex67.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex67.png
+
+newmtl tex68.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex68.png
+
+newmtl tex69.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex69.png
+
+newmtl tex70.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex70.png
+
+newmtl tex71.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex71.png
+
+newmtl tex72.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex72.png
+
+newmtl tex73.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex73.png
+
+newmtl tex74.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex74.png
+
+newmtl tex75.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex75.png
+
+newmtl tex76.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex76.png
+
+newmtl tex77.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex77.png
+
+newmtl tex78.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex78.png
+
+newmtl tex79.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex79.png
+
+newmtl tex80.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex80.png
+
+newmtl tex81.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex81.png
+
+newmtl tex82.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex82.png
+
+newmtl tex84.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex84.png
+
+newmtl tex85.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex85.png
+
+newmtl tex86.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex86.png
+
+newmtl tex87.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex87.png
+
+newmtl tex88.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex88.png
+
+newmtl tex89.png
+Ns 0
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd tex89.png
+
