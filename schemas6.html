@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>perceptual schemas</title>
+    <meta name="description" content="will to form">
+    <script src="./aframe-master.min.js"></script>
+  </head>
+  <body>
+    <a-scene vr-mode-ui="enabled: true">
+     <img id="city" crossorigin="anonymous" src="drawn360v3.png">
+     
+      <a-sky src="#city" rotation="0 0 0">
+      <a-animation attribute="rotation" fill="forwards" easing="linear" dur="700000" from="0 0 0" to="360 360 0" repeat="indefinite"></a-animation></a-sky>
+      
+
+    
+    </a-scene>
+  </body>
+</html>
